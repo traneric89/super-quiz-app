@@ -38,7 +38,7 @@ const App = () => {
     }
   }, []);
 
-  //Updates correct answer for current question
+  // Updates correct answer for current question
   useEffect(() => {
     if (isMounted.current) {
       setCorrectAnswer(data[currentQuestionIndex].answer);
