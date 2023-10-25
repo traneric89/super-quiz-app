@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/traneric89/super-quiz-app/static/css/main.7b2ebec3.css",
+    "main.js": "/traneric89/super-quiz-app/static/js/main.ab0d4931.js",
+    "index.html": "/traneric89/super-quiz-app/index.html",
+    "main.7b2ebec3.css.map": "/traneric89/super-quiz-app/static/css/main.7b2ebec3.css.map",
+    "main.ab0d4931.js.map": "/traneric89/super-quiz-app/static/js/main.ab0d4931.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2ebec3.css",
+    "static/js/main.ab0d4931.js"
+  ]
+}
